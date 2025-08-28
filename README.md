@@ -57,15 +57,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-## 🔥 GitHub Streak  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hisjeans)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
 ## 📈 Activity Graph  
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hisjeans&theme=radical&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
