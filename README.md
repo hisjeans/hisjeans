@@ -53,10 +53,12 @@ Here are some ideas to get you started:
 
 </div>
 
+---
+
 <div align="center">
 
 ## 🔥 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=hisjeans&theme=radical&hide_border=true)  
+[![GitHub Streak](https://streak-stats.demolab.com/api?user=hisjeans&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -65,7 +67,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 ## 🏆 GitHub Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=hisjeans&theme=radical&no-frame=true&no-bg=true&margin-w=4)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=hisjeans&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -74,7 +76,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 ## 📈 Activity Graph  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hisjeans&theme=redical&hide_border=true)  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hisjeans&theme=radical&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
