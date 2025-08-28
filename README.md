@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 </div>
 
----
+
 
 <div align="center">
 
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House  
-⭐️ From [hisjeans](https://github.com/hisjeans)  
+
+⭐️ 
 
 </div>
