@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 ## 🔥 GitHub Streak  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hisjeans&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/api?user=hisjeans&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
